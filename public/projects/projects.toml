@@ -1,0 +1,15 @@
+[[collection]]
+type = "card"
+title = "Tokio"
+link = "https://example.com"
+content = "Tokio is an asynchronous runtime for the Rust programming language."
+tags = ["rust", "async", "runtime"]
+
+[[collection]]
+type = "art"
+title = "الكافي"
+subtitle = "محمد بن يعقوب الكليني"
+link = "https://example.com/book"
+img = "img/alkafi.jpeg"
+content = "أحد كتب الحديث الأربعة."
+

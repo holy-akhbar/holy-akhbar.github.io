@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>My Blog</title>
+	<subtitle>My blog site.</subtitle>
+	<link rel="self" type="application/atom+xml" href="https://sahihx.github.io/posts/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://sahihx.github.io/posts/"/>
+  
+	<updated>2025-11-13T00:00:00+00:00</updated>
+	
+	<id>https://sahihx.github.io/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>My First Post</title>
+		<published>2025-11-13T00:00:00+00:00</published>
+		<updated>2025-11-13T00:00:00+00:00</updated>
+		<link rel="alternate" type="text/html" href="https://sahihx.github.io/posts/my-first/"/>
+		<id>https://sahihx.github.io/posts/my-first/</id>
+    
+		<content type="html" xml:base="https://sahihx.github.io/posts/my-first/">&lt;p&gt;بسم الله الرحمن الرحيم
+Welcome to my first post on &lt;strong&gt;Akhbari&lt;&#x2F;strong&gt;’s blog!&lt;br &#x2F;&gt;
+Here I’ll share my personal notes, thoughts, and progress on Rust projects and web experiments.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;getting-started&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#getting-started&quot; aria-label=&quot;Anchor link for: getting-started&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+Getting Started&lt;&#x2F;h2&gt;
+&lt;p&gt;I’ve been exploring Rust lately, building small tools and learning how to use it efficiently.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;future-plans&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#future-plans&quot; aria-label=&quot;Anchor link for: future-plans&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+Future Plans&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Write about building small Rust utilities&lt;&#x2F;li&gt;
+&lt;li&gt;Share open-source experiments&lt;&#x2F;li&gt;
+&lt;li&gt;Document interesting findings&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Stay tuned 🚀&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
